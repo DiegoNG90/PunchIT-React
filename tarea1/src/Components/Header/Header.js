@@ -22,10 +22,10 @@ const Header = () => {
                     <div className="collapse navbar-collapse justify-content-end" id="navbarNav">
                         <ul className="navbar-nav justify-content-end me-3" id="ul-nav">
                             <li className="nav-item active">
-                                <a className="nav-link" href="#bienvenida" id="l-bienvenida">Bienvenido </a>
+                                <a className="nav-link" href="#bienvenida" id="l-bienvenida"> Terapia </a>
                             </li>
                             <li className="nav-item active">
-                                <a className="nav-link" href="#servicios" id="l-servicios">Servicios</a>
+                                <a className="nav-link" href="#sobre-mi" id="l-servicios">Sobre mi</a>
                             </li>
                             <li className="nav-item active">
                                 <a className="nav-link" href="#contacto" id="l-contacto">Consulta</a>

@@ -26,3 +26,10 @@ main{
     
     /* position: absolute; */
 }
+@media only screen and (max-width: 666px ){
+    #cita{
+        font-size: 1.35rem;
+        width: 75%;
+        margin-left: 10%;
+    }       
+}

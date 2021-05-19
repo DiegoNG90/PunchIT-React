@@ -2,7 +2,7 @@
 
 #container{
     margin-top: 2rem;
-    border: 2px dotted black;
+    border: 2px dotted rgb(95, 90, 90);
     box-shadow: teal 2px;
 }
 section{
@@ -19,7 +19,17 @@ h4{
     font-weight: 200;
 }
 .parrafos{
-    width: 70%;
+    width: 100%;
+}
+.lead{
+    margin-top: 1rem;
+    font-family: 'Merriweather', serif;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    display: inline-block;
+    width: fit-content;
+    align-self: center;
+    padding: 0rem 0rem 0.7rem 1rem;
 }
 
 .sobre-mi{
@@ -30,6 +40,7 @@ h4{
     font-size: 1.2rem;
     font-family: 'Merriweather', serif;
     text-indent: 1.5rem;
+    text-align: center;
 }
 @-webkit-keyframes slide-fwd-center {
     0% {
@@ -162,6 +173,6 @@ h4{
 }  
 
 Aside{
-    width: 30%;
+    width: 100%;
     padding-bottom: 1rem;
 }
