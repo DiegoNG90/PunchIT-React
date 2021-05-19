@@ -1,4 +1,4 @@
-// 2 tipos de export -> por default ; como constante
+// 2 tipos de export -> por default ; como constante 
 import Header from "./components/Header";
 import Main from "./components/Main";
 import Presentation from "./components/Presentation";

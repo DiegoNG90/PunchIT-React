@@ -1,0 +1,16 @@
+FLUJO de una React APP
+
+index.html → donde se va a montar la aplicacion (match x id)
+index.js → el entry point → donde se monta (que quiero montar y donde)
+App.js → el entry point (codigo a ejecutar)
+
+
+Herramientas de React → Components → Muestra el "Arbol de componentes"!
+                      → Profiler → Mide la eficacia de tu React App web
+
+Para correr React App en localhost:3000
+    → npm start (abre una pestaña en el navegador con la que estamos construyendo. tarda un poquito.)
+
+Para buildear:
+    → npm run build (oculta los nombres de los componentes?)
+        → se crea la carpeta build. a su interior, se crea la carpeta /static y adentro se generan un montón de archivos (...)chunk.js. Ésto es lo que termina subiéndose.
